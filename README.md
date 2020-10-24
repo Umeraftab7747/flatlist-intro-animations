@@ -2,7 +2,7 @@
 
 A custom FlatList component that offers 5 types of item intro animations
 
-![preview](https://github.com/Umeraftab7747/flatlist-intro-animations/blob/master/preview.gif)
+![preview](https://github.com/Umeraftab7747/flatlist-intro-animations/blob/main/preview.gif)
 
 ## Features
 
